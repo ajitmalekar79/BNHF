@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_searchhosp"
+            android:icon="@drawable/ic_menu_search"
+            android:title="Search Hospital" />
+        <item
+            android:id="@+id/nav_disease"
+            android:icon="@drawable/ic_menu_disease"
+            android:title="Disease Dictionary" />
+
+    </group>
+
+    <item android:title="Sign In">
+        <menu>
+            <item
+                android:id="@+id/nav_adddoctor"
+                android:icon="@drawable/ic_menu_adddoc"
+                android:title="Doctor" />
+            <item
+                android:id="@+id/nav_adduser"
+                android:icon="@drawable/ic_menu_adduser"
+                android:title="User" />
+        </menu>
+    </item>
+
+    <item android:title="Login">
+        <menu>
+            <item
+                android:id="@+id/nav_doctorLogin"
+                android:icon="@drawable/ic_menu_adddoc"
+                android:title="Doctor" />
+
+            <item
+                android:id="@+id/nav_aboutUs"
+                android:icon="@drawable/ic_person_outline_black_24dp"
+                android:title="About Us" />
+
+        </menu>
+    </item>
+
+
+
+</menu>

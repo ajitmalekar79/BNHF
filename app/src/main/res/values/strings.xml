@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BNHF</string>
+    <string name="title_activity_maps">BNHF</string>
+
+    <string name="login">LOGIN</string>
+    <string name="show_pwd">Show Password</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="newUser">Create Account</string>
+    <string name="hide_pwd">Hide Password</string>
+    <string name="regUser">Already Have an Account</string>
+    <string name="profile">Profile</string>
+    <string name="schedule">Schedule</string>
+    <string name="blog">Blog</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="hospital">
+        <item>Samarth Hospital</item>
+        <item>Gurukrupa Hospital</item>
+        <item>ZP GOVERNMENT HOSPITAL BHOR</item>
+        <item>Goverment Hospital</item>
+        <item>Shubham Clinic Dr Raut</item>
+        <item>Ashwini Hospital Dr Kshirsagar</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_doctor_page">DoctorPage</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>

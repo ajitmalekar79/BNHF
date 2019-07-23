@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "446073988862",
+    "firebase_url": "https://bnhfdemo.firebaseio.com",
+    "project_id": "bnhfdemo",
+    "storage_bucket": "bnhfdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446073988862:android:8745054545268e5e",
+        "android_client_info": {
+          "package_name": "com.ajit.bnhfdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446073988862-fd141q02iqk20enf136aktp1k6kha8t9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ajit.bnhfdemo",
+            "certificate_hash": "c90988df02f778f424e3b095eed5d9df26b45313"
+          }
+        },
+        {
+          "client_id": "446073988862-eu6ka4cu82p9nea5qkgapjhvdkfjedrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlGfjZQZATdySw-9MU4wkC2ENrOoR_Jgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446073988862-eu6ka4cu82p9nea5qkgapjhvdkfjedrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
